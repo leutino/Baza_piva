@@ -1,5 +1,5 @@
-Završni rad
-Baza-piva
+Završni rad -
+Baza_piva
 
 Stranica je rađena u React-u.
 Sastoji se od početne stranice koja vodi ka stranici Beerlist koja sadrži listu piva.
